@@ -1,10 +1,3 @@
-# Medical-Data-Integrity-Checker
-
-
-Berikut adalah versi README dalam format markdown yang cocok untuk GitHub:  
-
----
-
 # Medical Data Integrity Checker  
 
 **Medical Data Integrity Checker** is a PyQt5-based desktop application designed to securely store and verify the integrity of patient medical records. It employs advanced encryption and hashing techniques to ensure data confidentiality and integrity.  

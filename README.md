@@ -90,7 +90,8 @@
     ```
 
 ## 📸 Screenshots  
-(Include screenshots of the application UI here.)  
+![Tampilan Aplikasi - 1](images/Screenshot%202025-01-05%20115409.png)
+![Tampilan Aplikasi - 2](images/Screenshot%202025-01-05%20115752.png)
 
 ## 🚀 Future Enhancements  
 - Cloud storage for secure backups.  
